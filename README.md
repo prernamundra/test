@@ -1,2 +1,4 @@
 # Portfolio
-This is the basic frontend portfolio website
+This is the basic frontend portfolio website.
+<br>
+Author: Prerna Mundra
